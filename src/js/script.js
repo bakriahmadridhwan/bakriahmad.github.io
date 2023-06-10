@@ -19,7 +19,7 @@ onload = function () {
     $(document).ready(function () {
       $(thisApp).fadeIn("slow");
     });
-  }, 50);
+  }, 5000);
 };
 
 // PLAY AUDIO
