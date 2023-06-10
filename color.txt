@@ -1,0 +1,13 @@
+1B3570 top left
+C9509C btm rg
+
+nav 483162
+as trans
+
+
+tl 4B5B75
+br 182C4E
+
+nav 46536A
+aside 6A778D
+
