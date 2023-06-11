@@ -134,7 +134,7 @@ function clock() {
   if (h > 17) {
     am = "<b> - Maghrib</b>";
   }
-  if (h > 20) {
+  if (h > 18) {
     am = "<b> - Malam</b>";
   }
 
