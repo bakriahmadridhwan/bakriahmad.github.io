@@ -19,7 +19,7 @@ onload = function () {
     $(document).ready(function () {
       $(thisApp).fadeIn("slow");
     });
-  }, 50);
+  }, 5000);
 };
 
 // PLAY AUDIO
@@ -134,7 +134,7 @@ function clock() {
   if (h > 17) {
     am = "<b> - Maghrib</b>";
   }
-  if (h > 20) {
+  if (h > 18) {
     am = "<b> - Malam</b>";
   }
 
